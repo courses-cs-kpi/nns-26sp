@@ -26,8 +26,9 @@ nav_order: 1
 - **Програмування**: написання коду на Python.
 
 Підручники
-: 1. Simon J.D. Prince (2024). [*Understanding Deep Learning*](https://udlbook.github.io/udlbook/). (UDL)
-1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Нейронні мережі*](https://github.com/dml-book/dml/releases/download/v0.1.10/0.1.10-final.pdf).
+: 1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Нейронні мережі*](https://github.com/dml-book/dml/releases/download/v0.1.10/0.1.10-final.pdf).
+1. Simon J.D. Prince (2024). [*Understanding Deep Learning*](https://udlbook.github.io/udlbook/). (UDL)
+
 
 
 ## На випадок повітряної тривоги
