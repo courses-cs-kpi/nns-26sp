@@ -4,7 +4,7 @@ title: Вступ
 
 
 
-17 січ 
+16 січ 
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/nns-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nns-kpi/pdf/details.pdf)]
 
