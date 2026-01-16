@@ -6,8 +6,7 @@ title: Вступ
 
 16 січ 
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
-  : [[HML](https://ykochura.github.io/nns-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/nns-kpi/pdf/details.pdf)]
-
+  : [[HML](https://ykochura.github.io/nns-kpi/?p=details.md#1)]
 : **Лекція 1**{: .label .label-green } **Вступ до глибокого навчання**
   : [[HML](https://ykochura.github.io/nns-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nns-kpi/pdf/lecture1.pdf)] [[ВІДЕО](https://youtu.be/ocNuyehfvfQ)]
 
