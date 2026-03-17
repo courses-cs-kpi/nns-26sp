@@ -21,8 +21,8 @@ title: Вступ
 
 
 : **ПР #2**{: .label .label-purple} **Знайомство з глибинним навчанням**
-  : [[Деталі](https://ykochura.github.io/nns-kpi/labs/lab2-nns.pdf)][[Промокод]()]
-    : **Дедлайн**: 31 березня 
+  : [[Деталі](https://ykochura.github.io/nns-kpi/labs/lab2-nns.pdf)][[Промокод](https://docs.google.com/document/d/1EaugNcfxwZxx_k_pw-6zf3Ys6oOkzzFvbu4OFmEiDsE/edit?usp=sharing)]
+    : **Дедлайн**: 30 травня 
 
 <!-- 17 січ
 : **Лекція 3**{: .label .label-green } **Автоматичне диференціювання**
